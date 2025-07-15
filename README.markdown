@@ -13,7 +13,7 @@ Integrated toolkit for automating bug bounty workflows with AI prioritization an
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/advanced-bug-bounty-suite.git
+git clone https://github.com/fsociety-git/advanced-bug-bounty-suite.git
 cd advanced-bug-bounty-suite
 pip install -r requirements.txt
 # Install nmap, sqlmap if needed
