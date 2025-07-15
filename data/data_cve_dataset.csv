@@ -1,0 +1,3 @@
+id,cvss,description,exploitability,priority
+CVE-2025-0001,9.8,Sample vuln desc,8.0,high
+CVE-2025-0002,4.0,Low impact desc,2.0,low
