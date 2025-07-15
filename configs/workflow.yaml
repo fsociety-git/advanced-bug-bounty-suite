@@ -1,0 +1,4 @@
+target: example.com
+url: https://example.com
+endpoint: https://api.example.com
+payloads: payloads/fuzz.txt
